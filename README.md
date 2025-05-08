@@ -1,2 +1,1 @@
-# tesselate
-Ostinato Tesselate
+# Tesselate
